@@ -7,7 +7,7 @@ BAS.
 The beetle antennae search (BAS) algorithm is developed in terms of simulating a beetle's behavioral trajectory for foraging food. In a strange environment, the beetle uses the two antennae on its head to conduct a series of flying and landing behaviors for the foraging. In the initial stage of the foraging, the beetle does not know where the food source is, and its two antennae are oriented randomly. It guesses the direction of the food through the odorants received by the antennae. The beetle judges which antenna receives the stronger odor, and accordingly uses its orientation as the estimated direction of the food source. Then the beetle flies along the estimated direction for a certain distance and lands with the two antennae oriented randomly. One cycle of the beetle antennae search consists of a directional flying procedure and a randoml directional landing procedure. The cycle is repeated until the final food source is located. Such repetitivee procedures are illustrated the Figure1.
 
 ![image](https://user-images.githubusercontent.com/44607144/233145753-4acb3e5d-90f4-4f23-a785-64d0eb826ed9.png)
-                                       (Figure1)
+                                       
                                        
 # Contributors
 * Tejas BN 
