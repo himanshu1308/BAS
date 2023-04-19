@@ -16,7 +16,7 @@ The beetle antennae search (BAS) algorithm is developed in terms of simulating a
 * Aman Prajapati
 
 # Refrences
-[ Z. Yue, G. Li, X. Jiang, S. Li, J. Cheng and P. Ren, "A Hardware Descriptive Approach to Beetle Antennae Search," in IEEE Access, vol. 8, pp. 89059-89070, 2020, doi: 10.1109/ACCESS.2020.2993600 ]
+ Z. Yue, G. Li, X. Jiang, S. Li, J. Cheng and P. Ren, "A Hardware Descriptive Approach to Beetle Antennae Search," in IEEE Access, vol. 8, pp. 89059-89070, 2020, doi: 10.1109/ACCESS.2020.2993600 
 
 
 
