@@ -109,8 +109,8 @@ module bas(clock,reset,load, seed_x,seed_y,iterations,x,y,x_extreme,y_extreme,ou
         end
         else if(load)
         begin
-            sense<=14'h1F00; //31
-            move<=14'h1F00;  //31
+            sense<=14'h1900; //25
+            move<=14'h1900;  //25
             count<=10'b0;
             value_best<=32'h0FFFFFFF; //initially considering a maximum value
         end
